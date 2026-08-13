@@ -1,2 +1,3 @@
-# ML_Basic
-ML code which reflects the idea of understanding the basics
+# ML-DL_Basic
+ML-DL code which reflects the idea of understanding the basics
+from math to code:
